@@ -1,0 +1,112 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Laptop HP",
+      "marca": "HP",
+      "imagen" : "https://intercompras.com/images/product/HP_B8T42LA_ABM.jpg",
+      "precio": "1450.00",
+      "descripcion": "PAVILION 14-DV0502LA CORE I5-1135G7 8GB 512GB SSD + 32GB OPTANE",
+      "Caracteristicas": "Procesador: Intel Core i5 - Memoria RAM: 8GB - Tarjeta gráfica: Intel Iris Xe - Tipo de disco duro: SSD"
+    },
+    {
+      "id": 2,
+      "nombre": "Laptop STUDIO",
+      "marca": "Microsoft",
+      "imagen" : "https://m.media-amazon.com/images/I/61UGE9cZVlL._AC_SL1500_.jpg",
+      "precio": "1850.00",
+      "descripcion": "Microsoft Surface Laptop Studio Pantalla táctil de 14.4 pulgadas Intel Core i7, memoria de 32 GB.",
+      "Caracteristicas": "Series: Surface Laptop - Tamaño de pantalla 14 Pulgadas - Color Platino - Tamaño del disco duro 2 TB - Modelo de CPU Intel Core i7-11700"
+    },
+    {
+      "id": 3,
+      "nombre": "Monitor LED 18.5",
+      "marca": "LG",
+      "imagen" : "https://www.lg.com/pe/images/monitores/MD05769229/gallery/Global_19_20_22_24_M38A_2016_Gallery_medium01.jpg",
+      "precio": "1750.00",
+      "descripcion": "Recientes estudios han demostrado que las pantallas curvas proporcionan una sensación de alivio.",
+      "Caracteristicas": "Reader Mode - Flicker Safe - OnScreen Control - Multitasking Colores Optimizados"
+    },
+    {
+      "id": 4,
+      "nombre": "Monitor LED Curvo 27",
+      "marca": "Samsung",
+      "imagen" : "https://images.samsung.com/is/image/samsung/es-curved-cf591-lc27f591fduxen-001-front-white?$650_519_PNG$",
+      "precio": "2250.00",
+      "descripcion": "Recientes estudios han demostrado que las pantallas curvas proporcionan una sensación de alivio.",
+      "Caracteristicas": "Una auténtica experiencia inmersiva - Confort para tus ojos- Deja que tu contenido cobre vida"
+    },
+    {
+      "id": 5,
+      "nombre": "Monitor Ergo Dual QHD 27",
+      "marca": "LG",
+      "imagen" : "https://www.lg.com/cac/images/monitores/md07545971/features/mnt-qhd-ergo-27qp88d-05-1-daisy-chain-desktop.jpg",
+      "precio": "2750.00",
+      "descripcion": "Monitor Ergo Dual QHD de 27 pulgadas con conexión en cadena.",
+      "Caracteristicas": "Pantalla IPS QHD (2560x1440) de 27 pulgadas - sRGB 99% (Típ.) con HDR10 - Soporte dual Ergo con abrazadera en C y ojal - Extender/Retraer 210 mm, Girar ±335°, Altura 150 mm, Pivotar 90°, Inclinar -30° ~ 35°"
+    },
+    {
+      "id": 6,
+      "nombre": "Galaxy Tab S7 Wi-Fi",
+      "marca": "Samsung",
+      "imagen" : "https://images.samsung.com/is/image/samsung/pe/galaxy-note20/gallery/pe-galaxy-tab-s7-wifi-t870-sm-t870nzklpeo-frontmysticblack-278583363?$720_576_PNG$",
+      "precio": "1250.00",
+      "descripcion": "Galaxy Tab S7 Wi-Fi.",
+      "Caracteristicas": "CD de silicio policristalino a baja temperatura de 120 hz - Viene con Keyboard cover y SPen - Batería inteligente de 8000 mAh"
+    },
+    {
+      "id": 7,
+      "nombre": "Samsung Galaxy Tab A 10.1″ 32GB",
+      "marca": "Samsung",
+      "imagen" : "https://www.cybermarket.pe/wp-content/uploads/2020/11/tab-a-10-1-2019.jpg",
+      "precio": "1850.00",
+      "descripcion": "Samsung Galaxy Tab A 10.1″ 32GB, SM-T515, Wi-Fi+4G LTE.",
+      "Caracteristicas": "Pantalla 10.1″ Full HD (1200×1920) - Versión 4G LTE - Procesador Exynos 7904 Octa Core 1.80Ghz - 2GB RAM - Almacenamiento 32GB expandibles con Micro-SD hasta 512GB"
+    },
+    {
+      "id": 8,
+      "nombre": "TV Panasonic 42' 4K",
+      "marca": "Panasonic",
+      "imagen" : "https://www.panasonic.com/content/dam/pim/pe/es/TC/TC-65H/TC-65HX550P/ast-1366245.png.pub.png?resize=272%3A204",
+      "precio": "1990.00",
+      "descripcion": "Vive la experiencia Smart 4K UHD Android TV.",
+      "Caracteristicas": "Una sorprendente calidad de imagen 4K y funciones inteligentes con una gran variedad de aplicaciones gracias a Android TV"
+    },
+    {
+      "id": 9,
+      "nombre": "TV Samsung 50' HDMI",
+      "marca": "Samsung",
+      "imagen" : "https://images.samsung.com/is/image/samsung/pe-uhd-tu8000-un50tu8000gxpe-frontblack-232064177?$650_519_PNG$",
+      "precio": "2490.00",
+      "descripcion": "50' TU8000 CRYSTAL UHD 4K Smart TV 2020",
+      "Caracteristicas": "Expresión de Color optimizada - Diseño sin bordes - Toca y Comparte"
+    },
+    {
+      "id": 10,
+      "nombre": "LG HD AI ThinQ 32'",
+      "marca": "HP",
+      "imagen" : "https://www.lg.com/cac/images/televisores/md07533012/gallery/D-01v.jpg",
+      "precio": "1450.00",
+      "descripcion": "LG HD AI ThinQ 32'' LM637 Smart TV, Procesador α5 AI, Virtual Surround Plus",
+      "Caracteristicas": "Procesador: Intel Core i5 - Memoria RAM: 8GB - Tarjeta gráfica: Intel Iris Xe - Tipo de disco duro: SSD"
+    },
+    {
+      "id": 11,
+      "nombre": "Mini Componente LG XBOOM CM4460 (460W)",
+      "marca": "LG",
+      "imagen" : "https://www.lg.com/pe/images/equipos-de-sonido/md05268971/gallery/CM4460_m01.jpg",
+      "precio": "1850.00",
+      "descripcion": "Mini Componente LG XBOOM CM4460 (460W).",
+      "Caracteristicas": "460W - Wireless Party link - Auto DJ - LG Bluetooth App - Multi Jukebox - TV Sound Sync"
+    },
+    {
+      "id": 12,
+      "nombre": "Equipo de Sonido Bluetooth Karaoke MHC-V73D",
+      "marca": "SONY",
+      "imagen" : "https://falabella.scene7.com/is/image/FalabellaPE/18617697_1?wid=800&hei=800&qlt=70",
+      "precio": "1450.00",
+      "descripcion": "Equipo de Sonido Bluetooth Karaoke MHC-V73D",
+      "Caracteristicas": "Capacidad de discos: 1 - Conexión Bluetooth: Sí - Control remoto incluido: Sí - Docking station: No - Entradas auxiliares de 3.5 mm: 1"
+    }
+  ]
+}
